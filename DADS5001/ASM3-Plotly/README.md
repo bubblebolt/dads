@@ -11,12 +11,8 @@
             border-bottom: 1px solid #000;
             padding-bottom: 10px;
         }
-        p {
-            margin: 0 auto;
-            max-width: 600px;
-        }
     </style>
-    <img src="pics/Treemap.png" width="500" height="300">
+    <img src="Pics/Treemap.png" width="500" height="300">
 </body>
 </html>
 
