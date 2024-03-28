@@ -3,7 +3,7 @@
 <body>
     <h1>COVID-19 Coronavirus Pandemic 🦠</h1>
     <p>Exploratory Data Analysis of total cases of COVID-19 around the world.</p>
-    <img src="Pics/Treemap.png" width="500" 
+    <img src="Pics/Treemap.png" width="900" 
 </body>
 </html>
 
