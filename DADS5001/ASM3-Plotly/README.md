@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>COVID-19 Coronavirus Pandemic 🦠</title>
     <style>
         body {
             text-align: center;
@@ -20,6 +22,7 @@
     <img src="DADS5001/ASM3-Plotly/pics/Treemap.png" width="500" height="300">
 </body>
 </html>
+
 
 
 
