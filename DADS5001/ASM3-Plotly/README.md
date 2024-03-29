@@ -39,8 +39,8 @@
 
 <html>
 <body>
-    <h1 style="text-align: center;">Why dataset of COVID-19 ❔ </h1>
-    <p>We chose to perform Exploratory Data Analysis (EDA) on total COVID-19 cases around the world because it allows us to understand the global impact of the pandemic, provide valuable insights to the public, aid policymakers in decision-making, utilize the availability of COVID-19 data, and serve as an educational tool </p>
+    <h1 style="text-align: center;">Why choose dataset of COVID-19 ❔ </h1>
+    <p>We choose to perform Exploratory Data Analysis (EDA) on total COVID-19 cases around the world because it allows us to understand the global impact of the pandemic, provide valuable insights to the public, aid policymakers in decision-making, utilize the availability of COVID-19 data, and serve as an educational tool </p>
 </body>
 </html
 
