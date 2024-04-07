@@ -7,3 +7,19 @@
 </body>
 </html>
 </div>
+
+<u><strong>Sec1</strong></u>
+<li>Re-design Sec1 by using simple sidebar layout with navigation links </li>
+<li>Active Box menu and adding icon </li>
+      <br>
+      <img src="Pics/sec1.png" width="1000">
+      <br>
+
+<u><strong>Sec2</strong></u>
+<li>Adding the 3rd figure (bar chart). This bar chart is updated based on the selection of the line chart.</li>
+<li>Fix color bugs</li>
+<br>
+      <img src="Pics/sec2.png" width="1000">
+      <br>
+
+
