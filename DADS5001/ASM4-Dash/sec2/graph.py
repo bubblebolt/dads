@@ -1,5 +1,6 @@
 #Reference: https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Dash%20Components/Graph/dash-graph.py
 import dash
+import random
 from dash import dcc, html
 import plotly.express as px
 
@@ -8,8 +9,17 @@ df = px.data.gapminder()
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-cl = px.colors.qualitative.Plotly
-countrycl = {country: cl[i % len(cl)] for i, country in enumerate(df['country'].unique())}
+def random_rgb_color():
+    r = random.randint(0, 255)
+    g = random.randint(0, 255)
+    b = random.randint(0, 255)
+    return (r, g, b)
+
+def rgb_to_str(rgb_tuple):
+    return 'rgb' + str(rgb_tuple)
+
+countrycl = {country: rgb_to_str(random_rgb_color()) for country in df['country'].unique()}
+
 
 app.layout = html.Div([
     dcc.Dropdown(
@@ -60,7 +70,7 @@ def update_graph(country_chosen):
         x='year',
         y='gdpPercap',
         color='country',
-        color_discrete_map=countrycl,
+        color_discrete_map= countrycl,
         hover_data=["lifeExp", "pop", "iso_alpha"]
     )
     fig.update_traces(mode='lines+markers')
@@ -131,6 +141,7 @@ def update_bar_chart(selected_data, country_chosen):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
 
 
 
