@@ -1,7 +1,9 @@
 <div align="center">
 
 # TOOGLE: Text Summarizer 📑
-<img src="https://raw.githubusercontent.com/bubblebolt/dads/main/DADS5001/ASM5-LLM/Pics/t1.png" height="250"> <img src="https://raw.githubusercontent.com/bubblebolt/dads/main/DADS5001/ASM5-LLM/Pics/t2.png" height="250">
+
+![Alt Text](https://github.com/bubblebolt/dads/raw/main/DADS5001/ASM5-LLM/Pics/ex_toogle.gif)
+
 
 </div>
 
