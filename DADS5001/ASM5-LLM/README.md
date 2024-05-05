@@ -52,6 +52,5 @@ TOOGLE is expected to produce curated and significant data summaries, allowing a
 | Phornpailin Thaisuriyo | 6610412006 |
 | Monsicha Praditrod | 6610412007 |
 
-[Toogle Documentation](https://github.com/bubblebolt/dads/raw/main/DADS5001/ASM5-LLM/Toogle.pdf)
 <br>
 For further details and contributions, refer to the project repository.
