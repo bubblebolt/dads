@@ -2,7 +2,7 @@
 <div align="center">
 
 # TOOGLE: Text Summarizer 📑
-
+![Alt Text](https://github.com/bubblebolt/dads/raw/main/DADS5001/ASM5-LLM/Pics/ex_toogle.gif)
 
 
 </div>
