@@ -54,5 +54,4 @@ TOOGLE is expected to produce curated and significant data summaries, allowing a
 | Phornpailin Thaisuriyo | 6610412006 |
 | Monsicha Praditrod | 6610412007 |
 
-<br>
 For further details and contributions, refer to the project repository.
