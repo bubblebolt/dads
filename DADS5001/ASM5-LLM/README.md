@@ -26,7 +26,7 @@ TOOGLE emphasizes the importance of data and data management in contemporary con
 1. Understand and utilize Dash, Plotly, and Python for creating visually appealing graphs and data representation.
 2. Develop a tool capable of generating concise and reliable content summaries, aiming to reduce complexity and increase efficiency in utilizing crucial data effectively.
 
-## Methodology 🔢
+## Methodology 📦
 - **Data Collection:** Users input text via a Textarea on the Dash website, selecting the text language from a dropdown menu. The system automatically identifies and verifies the language using the Langid module.
 - **Data Storage:** Processed data from text analysis is stored in a PostgreSQL database, including ID, Timestamp, Topic, and Probability.
 <div align="center">
