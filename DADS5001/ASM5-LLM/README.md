@@ -2,7 +2,9 @@
 <div align="center">
 
 # TOOGLE: Text Summarizer 📑 
-➳ [Toogle Documentation](https://github.com/bubblebolt/dads/blob/main/DADS5001/ASM5-LLM/Toogle.pdf)
+➳ [TOOGLE Documentation](https://github.com/bubblebolt/dads/blob/main/DADS5001/ASM5-LLM/Toogle.pdf)
+&nbsp;&nbsp;&nbsp;
+➳ [TOOGLE Presentation](https://www.canva.com/design/DAF0xpmxLW8/9MnZXA5cfAM1KEzETG6skA/view?utm_content=DAF0xpmxLW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 &nbsp;&nbsp;&nbsp;
 ➳ [Download TOOGLE App](https://github.com/bubblebolt/dads/raw/main/DADS5001/ASM5-LLM/Toogle_Readytoload.zip)
 
